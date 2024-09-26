@@ -1,0 +1,8 @@
+    [
+        { "id": 101, "name": "Plain Dosa", "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FSeries%2F2020-07-South-Indian-Chritra-Agrawal%2FDosa%20Making%20-%20How%20to%20steps%2FShot_21_-_Finished_dosas", "price": 500, "quantity":0,"totalPrice":0,"vegImg":"https://i.pinimg.com/736x/e4/1f/f3/e41ff3b10a26b097602560180fb91a62.jpg" },
+        { "id": 102, "name": "Poori", "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/11/puri-1152x1536.jpg", "price": 120, "quantity":0,"totalPrice":0,"vegImg":"https://i.pinimg.com/736x/e4/1f/f3/e41ff3b10a26b097602560180fb91a62.jpg" },
+        { "id": 103, "name": "Mashala Dosa", "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/masala-dosa-recipe-1-1024x1536.jpg", "price": 110, "quantity":0,"totalPrice":0,"vegImg":"https://i.pinimg.com/736x/e4/1f/f3/e41ff3b10a26b097602560180fb91a62.jpg" },
+        { "id": 104, "name": "Manglore bajji", "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2019/07/goli-baje-recipe.jpg", "price": 1030, "quantity":0,"totalPrice":0,"vegImg":"https://i.pinimg.com/736x/e4/1f/f3/e41ff3b10a26b097602560180fb91a62.jpg" },
+        { "id": 105, "name": "Lucknow Non-veg", "image": "https://i.ytimg.com/vi/gaXCBmwBeIY/maxresdefault.jpg", "price": 1000, "quantity":0,"totalPrice":0,"vegImg":"https://bengalscake.com/wp-content/uploads/2021/11/non-veg.jpg" },
+        { "id": 106, "name": "Andhra Non-veg", "image": "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/evdc8mntinevu3iyifi4", "price": 1550, "quantity":0,"totalPrice":0,"vegImg":"https://bengalscake.com/wp-content/uploads/2021/11/non-veg.jpg" }
+      ]

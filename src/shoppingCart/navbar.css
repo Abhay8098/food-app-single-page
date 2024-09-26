@@ -1,0 +1,28 @@
+.nav{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: rgb(235, 231, 231);
+    
+}
+.nav h1{
+    margin-top: -1%;
+    font-size: 4vh;
+
+}
+.nav-sub{
+    width: 20%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+}
+.nav-sub a{
+    text-decoration: none;
+    color: gray;
+
+}
+h1{
+    padding-left: 7%;
+    margin-top: 2%;
+    font-size: 2vw;
+}

@@ -1,0 +1,128 @@
+.main{
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 10%;
+}
+.sub-main{
+    width: 40%;
+    display: flex;
+    margin-top:1%;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-bottom: 2%;
+}
+.sub-main-head{
+    width: 70%;
+    padding-left: 2%;
+}
+.sub-main-img{
+    width: 30%;
+}
+.sub-main-img img{
+        height: 25vh;
+        width: 100%;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+}
+.btnn{
+    border: 1px solid orange ;
+    background-color: white;
+    height: 5vh;
+    width: 40%;
+    min-width: fit-content;
+    color: orange;
+    cursor: pointer;
+    padding-bottom: 1%;
+}
+ /* <<-----------css for footer-------->> */
+ #footer{
+
+     position: fixed;
+     width: 100%;
+     bottom: 0;
+    background-color: lightgray;
+
+    }
+    .foot{
+    display: flex;
+    justify-content: space-between;
+
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+ }
+ .btn{
+    background-color: rgb(217, 44, 44);
+    color: white;
+    border: none;
+    height: 5vh;
+    width: 80%;
+    min-width: fit-content;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 1vw;
+
+ }
+ #cart{
+    height:0px;
+    transition: height .25s;
+    background-color: aliceblue;
+ }
+.tbl{
+    border: 1px solid;
+    width: 90%;
+    border-collapse: collapse;
+    margin-left: 5%;
+    text-align: center;
+}
+.tbl th{
+    border: 1px solid;
+    font-size: 1vw;
+    width: 11.25%;
+   
+}
+.tbl td{
+    border: 1px solid;
+    width: 11.25%;
+    font-size: 1vw;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-left: 2%;
+    font-weight: 900;
+   
+
+}
+.tbl img{
+    width: 100%;
+}
+.btnAction{
+    background-color: white;
+    color: black;
+    font-size: 1vw;
+    border: none;
+    background-color: rgb(84, 84, 240);
+    width: 30%;
+    height: 5vh;
+}
+#quantity{
+    padding: 8%;
+}
+.btn a{
+    text-decoration: none;
+    color: white;
+}
+.cart-btn{
+    background-color: white;
+    color: gray;
+    border: none;
+    height: 5vh;
+    width: 100%;
+    min-width: fit-content;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid rgb(241, 87, 87);
+    font-size: 1vw;
+}
